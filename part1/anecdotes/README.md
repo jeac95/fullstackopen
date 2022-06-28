@@ -1,2 +1,2 @@
 # fullstackopen Part1
-Exercise 'unicafe'
+Exercise 'anecdotes'
